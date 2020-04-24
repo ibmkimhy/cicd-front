@@ -33,7 +33,7 @@ podTemplate(label: label, containers: [
 
 
 	} catch(e) {
-		// Slack - 빌드 실패시
+		// Slack - 빌드 실패시 
 
 	}
   }
